@@ -135,6 +135,12 @@ exports.config = {
         outputDir: "allure-results",
       },
     ],
+    [
+      "junit",
+      {
+        outputDir: "./",
+      },
+    ],
   ],
 
   //
